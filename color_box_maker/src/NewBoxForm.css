@@ -1,0 +1,11 @@
+.NewBoxForm{
+    margin: 5px;
+}
+
+.NewBoxForm-input {
+    margin-bottom: 5px;
+}
+
+.NewBoxForm-input label {
+    margin-right: 5px;
+}
