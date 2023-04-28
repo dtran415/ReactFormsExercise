@@ -1,0 +1,11 @@
+.NewTodoForm{
+    margin: 5px;
+}
+
+.NewTodoForm-input {
+    margin-bottom: 5px;
+}
+
+.NewTodoForm-input label {
+    margin-right: 5px;
+}
